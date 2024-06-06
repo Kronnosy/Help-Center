@@ -1,0 +1,52 @@
+#
+#     __  __
+#    |  |/  |.----.-----.-----.-----.-----.-----.--.--.
+#    |     < |   _|  _  |     |     |  _  |__ --|  |  |
+#    |__|\__||__| |_____|__|__|__|__|_____|_____|___  |
+#                                               |_____|
+#
+
+# ----------------- Join Panel ----------------- #
+JoinPanelStatus: true
+JoinPanelTitle: "KriusCraft Announcement Panel"
+JoinPanelMessage: " - Innovations \n   - Anti-Cheat updated. \n   - New Basic Kit Set Introduced. \n   - VIP System Changed. \n   - Fixed Bugs in Market System"
+JoinPanelButton: "Exit"
+JoinPanelButtonTexture: "textures/blocks/barrier"
+
+JoinPaneSettingsTitle: "Join Panel Settings"
+JoinPanelSettingsMessage: "From this panel you can change the settings and contents of the Join Panel Menu"
+JoinPanelSettingsToggle: "Turns the Join Panel on/off"
+JoinPanelSettingsStatusChanged: "Enter the content you want to write in the Join Panel"
+# --------------------------------------------- #
+
+# ----------------- SSS Panel ----------------- #
+SSSCommand: "sss"
+SSSCommandUsage: "/sss"
+SSSCommandDescription: "Opens the FAQ Panel"
+
+SSSPanelTitle: "FAQ Panel"
+SSSPanelMessage: "•  Which Game Modes are Available on the Server 🎮 \n   • Survival: Test your survival skills! \n  • Creative: Unleash your creativity! \n  • Skyblock: Try to survive on a small island! \n  • Minigames: Play a variety of fun minigames!"
+
+SSSSettingsPanelTitle: "FAQ Settings Panel"
+SSSSettingsPanelMessage: "From this panel you can change the settings and contents of the FAQ Panel Menu"
+SSSSettingsPanelInputMessage: "Enter the content you want to write in the FAQ Panel"
+# --------------------------------------------- #
+
+# ----------------- Announcement Panel ----------------- #
+AnnouncementCommand: "announcement"
+AnnouncementCommandUsage: "/announcement"
+AnnouncementCommandDescription: "Example Announcement Description"
+# --------------------------------------------- #
+
+# ----------------- Settings Panel ----------------- #
+SettingsCommand: "hcsettings"
+SettingsCommandUsage: "/hcsettings"
+SettingsCommandDescription: "Example Help Center Settings Description"
+
+SettingsPanelTitle: "Help Center Settings Panel"
+SettingsPanelMessage: "From this panel you can change the settings and contents of the Panels"
+SettingsPanelButton1: "Join Panel"
+SettingsPanelButton2: "FAQ Panel"
+SettingsPanelButtonTexture1: "https://static-00.iconduck.com/assets.00/join-group-icon-512x469-925z18ka.png"
+SettingsPanelButtonTexture2: "https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/faqs-icon.png"
+# --------------------------------------------- #

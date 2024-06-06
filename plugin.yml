@@ -1,0 +1,16 @@
+name: Kronnosy Help Center
+version: 0.1-BETA
+main: kronnosy\Kronnosy
+api: 5.15.0
+author: Kronnosy
+
+permissions:
+  kronnosy.sss:
+    description: Allows use of the /sss command
+    default: true
+  kronnosy.help.settings:
+    description: Allows use of the /hcsettings command
+    default: op
+  kronnosy.announcement:
+    description: Allows use of the /announcement command
+    default: true
