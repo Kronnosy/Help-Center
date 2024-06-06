@@ -1,5 +1,5 @@
 
-# Project Title
+# Minecraft: BE/WE Help Center
 
 A simple but useful plugin. It allows you to add in-game announcements or notification panels such as FAQs to the game.
 
